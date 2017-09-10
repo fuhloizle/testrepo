@@ -1,0 +1,20 @@
+ticket: 91
+responsible: jordan@Watson
+status: open
+title: rip dvd's
+----
+Method 1:
+	dvdbackup
+
+	Produces vob files, recreates dvd file system structure
+
+Method 2:
+	vobcopy
+
+Method 3:
+	vlc convert/save
+
+Method 4:
+	ripmake
+
+	Produces avi of dvd

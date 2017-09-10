@@ -1,0 +1,9 @@
+ticket: 33
+responsible: jordan@Watson
+status: open
+title: bed ports
+----
+add the following ports to the bed:
+ethernet (to switch)
+usb 2.0 x2 (to each computer)
+usb 3.0 x1 (to each computer)

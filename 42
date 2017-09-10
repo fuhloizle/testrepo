@@ -1,0 +1,6 @@
+ticket: 42
+responsible: jordan@Watson
+status: closed
+title: workbench power
+----
+attach hook for workbench power strip

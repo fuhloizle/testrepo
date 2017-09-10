@@ -1,0 +1,8 @@
+ticket: 39
+responsible: jordan@Watson
+status: open
+title: cpusim
+----
+write 
+1) program to interact with generic cpu
+2) backend which implements subleq computer
