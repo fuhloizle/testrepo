@@ -17,4 +17,25 @@ Method 3:
 Method 4:
 	ripmake
 
+	Use ripmake; old, cannot get to work
+
 	Produces avi of dvd
+
+Method 5:
+	makemkv
+
+	Produces mkv of dvd
+
+Method 6:
+	mencoder
+
+Method 7:
+	k9copy
+
+method 8:
+	handbrake
+
+	HandBrakeCLI -i VIDEO_TS -o ~/Videos/mydvd.mp4 -e x264 -q 20 -B 120
+
+method 9:
+	k3b
