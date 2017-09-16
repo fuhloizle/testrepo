@@ -1,0 +1,7 @@
+ticket: 93
+responsible: jorda@sherlock
+status: open
+title: image reader
+----
+write script to crawl a directory, determine sar of image files, and move
+them to an appropriate folder (1.6, 1.777, etc)
