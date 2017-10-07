@@ -1,7 +1,7 @@
 ticket: 100
 responsible: jorda@sherlock
 status: open
-title: write an OS
+title: hobby write an OS
 ----
 Resources:
 	mikeos.sourceforge.net
@@ -15,6 +15,7 @@ Resources:
 	https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/
 	https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 	www.cs.cmu.edu/~ralf/files.html
+	https://www.amazon.com/From-Metal-Fundamentals-Programmable-Computers/dp/0981280005
 
 1.	Boot load basic IO utility to
 	1.1 Read a value from an address
